@@ -14,13 +14,3 @@ else:
     message = message + 'Expensive extras.'
 print(message)    
 
-
-    
-#elif connection >= 5:
- #   message = message + 'setting video to 1080p.'
-#elif connection >= 2:
-#    message = message + 'setting video to 720p.'
-#else:
- #   message = message + 'finding another access network.'
-#print(message)
-
